@@ -1,0 +1,10 @@
+# Fichiers créés automatiquement par Windows
+Thumbs.db
+desktop.ini
+
+# Copies de sauvegarde des éditeurs
+*.bak
+
+# Notes et brouillons personnels
+notes.txt
+brouillons/
