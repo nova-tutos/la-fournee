@@ -9,3 +9,5 @@ desktop.ini
 notes.txt
 brouillons/
 fournisseurs.txt
+*.log
+export/
